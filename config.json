@@ -1,0 +1,17 @@
+{
+	"Azure API": {
+		"api_key": "6ddd2c8121714288888fe13ce2bac14a",
+		"region": "southeastasia"
+	},
+	"Google API": {
+		"api_key": "xx",
+		"region": "xx"
+	},
+	"Meta MMS": {
+		"params": "xxx"
+	},
+	"Suno Bark": {
+		"SUNO_OFFLOAD_CPU": "True",
+        "SUNO_USE_SMALL_MODELS": "True"
+	}
+}
